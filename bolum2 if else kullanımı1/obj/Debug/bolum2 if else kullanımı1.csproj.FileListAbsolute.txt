@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\bin\Debug\bolum2 if else kullanımı1.exe.config
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\bin\Debug\bolum2 if else kullanımı1.exe
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\bin\Debug\bolum2 if else kullanımı1.pdb
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\obj\Debug\bolum2 if else kullanımı1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\obj\Debug\bolum2 if else kullanımı1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\obj\Debug\bolum2_if_else_kullanımı1.Form1.resources
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\obj\Debug\bolum2_if_else_kullanımı1.Properties.Resources.resources
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\obj\Debug\bolum2 if else kullanımı1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\obj\Debug\bolum2 if else kullanımı1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\obj\Debug\bolum2 if else kullanımı1.exe
+C:\Users\User\source\repos\bolum2 if else kullanımı1\bolum2 if else kullanımı1\obj\Debug\bolum2 if else kullanımı1.pdb
